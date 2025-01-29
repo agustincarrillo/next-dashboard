@@ -6,3 +6,4 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 "# next-dashboard" 
 "# dashboard_nextjs" 
 "next-dashboard" 
+"# dashboard_nextjs" 
